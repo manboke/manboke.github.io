@@ -21,6 +21,7 @@
   collapsed:: true
 	- [好几年没玩了，回坑发现drama不少？【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/9691792599)
 	- [(水)【cataclysmdda吧】_百度贴吧](https://tieba.baidu.com/p/7521643512)
+- [世纪枭隼Peregrine的个人空间-世纪枭隼Peregrine个人主页-哔哩哔哩视频](https://space.bilibili.com/382784290)
 - ---
 - 下载
 	- 游戏本体

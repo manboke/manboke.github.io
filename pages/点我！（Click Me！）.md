@@ -1,4 +1,5 @@
 - https://preview.redd.it/uncle-lenin-i-want-you-to-create-the-proletariat-revolution-v0-id1s9kq5x6lb1.jpg?width=640&crop=smart&auto=webp&s=adc014d99c43155aa0c052a9e8ce447e2ea8ee36
+  id:: 6944e696-9a26-4d35-ae6f-e316a9fb53e2
   collapsed:: true
 	- [uncle lenin - I want you to create the proletariat revolution! : r/MarxistCulture](https://www.reddit.com/r/MarxistCulture/comments/1656q6i/uncle_lenin_i_want_you_to_create_the_proletariat/)
 	- ~~“可以啊，配合这加载时间！”~~
