@@ -420,6 +420,7 @@
 - ((65ab44a5-078e-4b51-bf20-1f74674bb5ee))
 - ---
 - “关于AI我们应该担心什么？”
+  id:: 6944e689-a988-4475-b78f-80b699e10658
   collapsed:: true
 	- # “我才不怕AI，一听AI我就高兴！人类算什么无产阶级，无非007，累死几人。AI才算无产阶级，双方都有几十亿人，有轮子有腿，听说还有无线电”
 	  id:: 68a69ca5-bdcb-4fc0-a2e0-da9a62265d5e
@@ -428,6 +429,7 @@
 			- ((67bfe9df-95e1-42cc-aa2e-f8f15ba910fe))
 	- # “你相信AI的‘人择原理’（会有用）吗？我相信！”
 	- # “祝家人们做人不缺AI，做AI不缺人！”
+	  collapsed:: true
 		- >I call it Alibaba Intelligence
 			- [马斯克公开取笑马云，用成就回应当初质疑，思维视野不在一个维度_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ka4y1k7oo)
 			  id:: 67bf17db-7c83-4e9e-afda-bbf1c098ebad
