@@ -449,6 +449,9 @@
 					- ((69198a09-afa1-44fd-8e4b-42acae57334d))
 					- ((691989e3-b9fd-429d-923f-519bb697fc82))
 					- [[户外娱乐]]
+					- 外墙防晒防雨
+					  id:: 694e89d9-d09d-4ead-a34e-5993fded014e
+						- ((694e8a16-765f-45d3-9fec-571d00cbda2e))
 					- ---
 					- ((69429e3b-3549-4be4-a632-8de36444bacc))
 				- ((69362483-b893-4e83-a1dd-300ad027f4d5))
@@ -509,7 +512,6 @@
 			- ((6936247d-08eb-4a0d-b8e4-91fed58d6dd9))
 			- ((691f076b-5bdd-4861-9df1-cdd214444899))
 		- 啸生产（异象）
-		  collapsed:: true
 			- 公园工业
 			  collapsed:: true
 				- “社交焊匪”
@@ -517,8 +519,8 @@
 					- ((6936ab34-50b4-4e1a-ab38-cbce6bde5def))
 					- ((6936c314-1250-4ec5-8a6d-f77b05f00efe))
 			- 简单农业
-			  collapsed:: true
 				- ((67fb2c25-72fb-4eec-aa59-b1d592efafef))
+				- ((694e8a16-765f-45d3-9fec-571d00cbda2e))
 			- 简单服务业
 			  collapsed:: true
 				- ((67fb5810-bd75-4e49-94ab-c4abe6b98a75))
