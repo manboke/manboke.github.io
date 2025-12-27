@@ -169,6 +169,7 @@
 	  id:: 670d40c3-4575-485c-8b47-bea78a726ae7
 	- 灰喜鹊主题
 	  id:: 679adca5-2dbe-4df3-ab03-4c7c01631a8a
+		- ((678a4e01-a8e9-41fc-96f8-bae8a0ef64df))
 		- 主题文件路径：logseq图谱文件夹-logseq文件夹-custom.css
 		- “真实灰喜鹊体色”
 			- ((67c5bb7c-abeb-4252-98a3-a298ad2eea50))
